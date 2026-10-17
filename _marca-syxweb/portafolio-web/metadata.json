@@ -1,0 +1,406 @@
+{
+  "generado": "2026-10-16",
+  "criterio": "Valores copiados literalmente del código fuente de syxweb-modern. \"no figura\" = el dato no existe en las fuentes (nunca se infiere).",
+  "fuentes": {
+    "es_json": "C:/xampp/htdocs/syxweb/syxweb-modern/messages/es.json (portfolioPage.grid, casosExitoPage.cases, casosExitoPage.testimonials, catalog.projects, authPage.login.projectShowcase)",
+    "portfolio_grid": "C:/xampp/htdocs/syxweb/syxweb-modern/components/sections/PortfolioGrid.tsx (key, category, href)",
+    "casos_exito": "C:/xampp/htdocs/syxweb/syxweb-modern/app/[locale]/casos-exito/page.tsx (technologies, demo)",
+    "login_carousel": "C:/xampp/htdocs/syxweb/syxweb-modern/components/auth/LoginProjectCarousel.tsx (domain)"
+  },
+  "etiquetas_categoria": {
+    "all": "Todos",
+    "websites": "Websites",
+    "systems": "Sistemas",
+    "ecommerce": "E-commerce",
+    "apps": "Apps"
+  },
+  "carpetas_genericas_descartadas": "public/projects/ecommerce, corporativo y landing-page son fotos de stock genéricas, no capturas de proyectos: no se copiaron.",
+  "proyectos": [
+    {
+      "key": "gidepro",
+      "claves_en_fuente": {
+        "portfolioGrid": "gidepro",
+        "casosExito": "no figura",
+        "catalogo": "gidepro-administracion-edificios",
+        "loginCarousel": "gidepro"
+      },
+      "carpeta": "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/gidepro",
+      "nombre": "Gidepro - Gestión de Edificios",
+      "nombre_caso": "no figura",
+      "nombre_catalogo": "GIDE PRO",
+      "categoria": "websites",
+      "categoria_etiqueta": "Websites",
+      "categoria_caso": "no figura",
+      "tipo_login": "Sitio corporativo",
+      "ubicacion": "Lima",
+      "url": "https://gideprosac.com/",
+      "url_demo_casos_exito": "no figura",
+      "descripcion_corta": "Sitio corporativo para administración de edificios en Lima",
+      "descripcion": "Sitio web corporativo para empresa de gestión integral de edificios residenciales y corporativos en Lima. Diseño moderno con hero visual, sección de servicios, áreas de cobertura y formulario de contacto.",
+      "descripcion_catalogo": "Sitio web corporativo para empresa de gestión integral de edificios residenciales y corporativos en Lima. Diseño moderno con hero visual, sección de servicios, áreas de cobertura y formulario de contacto.",
+      "descripcion_login": "Una web que conecta la gestión de edificios con las personas que la necesitan.",
+      "detalle_login": "Inmobiliario · Servicios",
+      "resultados": "no figura",
+      "tecnologias": "no figura",
+      "tiempo_entrega_catalogo": "3-4 semanas",
+      "testimonio": "no figura",
+      "ubicacion_fuente": "es.json catalog.projects.gidepro-administracion-edificios.shortDescription (\"...administración de edificios en Lima\"); no tiene entrada en casosExitoPage.cases",
+      "archivos": [
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/gidepro/main-recorte.webp",
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/gidepro/main-recorte.png"
+      ],
+      "avisos": [
+        "Sin resultados ni tecnologías en la fuente (no tiene entrada en casosExitoPage.cases).",
+        "main-recorte: se recortó la franja inferior para quitar el botón flotante de WhatsApp; el PNG viene de la captura nativa sin pérdida.",
+        "El logo pequeño del header tiene poco contraste sobre el hero oscuro (diseño del sitio); el logo grande central sí se lee."
+      ]
+    },
+    {
+      "key": "gioLoyola",
+      "claves_en_fuente": {
+        "portfolioGrid": "gioLoyola",
+        "casosExito": "gioLoyola",
+        "catalogo": "gio-loyola-mentora",
+        "loginCarousel": "no figura"
+      },
+      "carpeta": "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/gio-loyola",
+      "nombre": "Gio Loyola - Mentora de Mujeres",
+      "nombre_caso": "Gio Loyola",
+      "nombre_catalogo": "Gio Loyola",
+      "categoria": "websites",
+      "categoria_etiqueta": "Websites",
+      "categoria_caso": "Landing Page",
+      "tipo_login": "no figura",
+      "ubicacion": "USA",
+      "url": "https://gioloyola.com",
+      "url_demo_casos_exito": "https://gioloyola.com",
+      "descripcion_corta": "Landing page para mentora de negocios y emprendimiento",
+      "descripcion": "Landing page profesional para mentora de mujeres latinas en negocios y emprendimiento. Diseño elegante con sección de programas y testimonios.",
+      "descripcion_catalogo": "Landing page profesional para mentora de mujeres latinas en USA especializada en negocios y emprendimiento. Diseño elegante con sección de programas, valores, testimonios y formulario de contacto.",
+      "descripcion_login": "no figura",
+      "detalle_login": "no figura",
+      "resultados": [
+        {
+          "valor": "12%",
+          "etiqueta": "Tasa conversión"
+        },
+        {
+          "valor": "40+",
+          "etiqueta": "Consultas/mes"
+        },
+        {
+          "valor": "2 semanas",
+          "etiqueta": "Tiempo desarrollo"
+        }
+      ],
+      "tecnologias": [
+        "Next.js",
+        "Tailwind CSS",
+        "TypeScript",
+        "Framer Motion"
+      ],
+      "tiempo_entrega_catalogo": "1-2 semanas",
+      "testimonio": "no figura",
+      "archivos": [
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/gio-loyola/main-limpia.webp",
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/gio-loyola/main-limpia.png",
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/gio-loyola/gallery-1-valores.webp",
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/gio-loyola/gallery-1-valores.png",
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/gio-loyola/gallery-3-recorte.webp",
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/gio-loyola/gallery-3-recorte.png",
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/gio-loyola/gallery-4-testimonios.webp",
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/gio-loyola/gallery-4-testimonios.png"
+      ],
+      "avisos": [
+        "Aparece la clienta (Gio Loyola) y su usuario público @ceogioloyola: es su propia web, pero conviene confirmar permiso para usar su imagen en publicidad de SyxWeb.",
+        "El hero muestra cifras del sitio de la clienta (500+ Mujeres Transformadas, 20+ Años de Experiencia): no son resultados de SyxWeb.",
+        "gallery-2 original (la barra de navegación tapaba el título del CTA) se eliminó; el resto se recortó o limpió para quitar el botón de WhatsApp y franjas cortadas."
+      ]
+    },
+    {
+      "key": "innovoDealership",
+      "claves_en_fuente": {
+        "portfolioGrid": "innovoDealership",
+        "casosExito": "innovo",
+        "catalogo": "innovo-dealership",
+        "loginCarousel": "innovoDealership"
+      },
+      "carpeta": "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/innovo-dealership",
+      "nombre": "Innova",
+      "nombre_caso": "Innova",
+      "nombre_catalogo": "Innova",
+      "categoria": "systems",
+      "categoria_etiqueta": "Sistemas",
+      "categoria_caso": "CRM para concesionarias",
+      "tipo_login": "CRM para concesionarias",
+      "ubicacion": "Latinoamérica",
+      "url": "https://dashboard.innovopr.com/login",
+      "url_demo_casos_exito": "https://demo.syxweb.com",
+      "descripcion_corta": "CRM para concesionarias con inventario, clientes y ventas",
+      "descripcion": "CRM para concesionarias. Dashboard con métricas, inventario de vehículos, clientes, citas, cotizaciones y estados de venta.",
+      "descripcion_catalogo": "CRM para concesionarias de vehículos. Dashboard con métricas en tiempo real, inventario de vehículos, gestión de clientes, citas programadas, cotizaciones, estados de venta y reportes.",
+      "descripcion_login": "Clientes, inventario de vehículos y seguimiento de ventas en un mismo CRM.",
+      "detalle_login": "Clientes · Inventario · Ventas",
+      "resultados": [
+        {
+          "valor": "+60%",
+          "etiqueta": "Eficiencia operativa"
+        },
+        {
+          "valor": "-40%",
+          "etiqueta": "Tiempo de cierre"
+        },
+        {
+          "valor": "10 semanas",
+          "etiqueta": "Tiempo desarrollo"
+        }
+      ],
+      "tecnologias": [
+        "Next.js",
+        "Spring Boot",
+        "PostgreSQL",
+        "JWT",
+        "Docker"
+      ],
+      "tiempo_entrega_catalogo": "8-10 semanas",
+      "testimonio": "no figura",
+      "archivos": [
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/innovo-dealership/main-limpia.webp",
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/innovo-dealership/main-limpia.png",
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/innovo-dealership/gallery-2-limpia.webp",
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/innovo-dealership/gallery-2-limpia.png"
+      ],
+      "avisos": [
+        "La URL difiere según la fuente: PortfolioGrid.tsx enlaza https://dashboard.innovopr.com/login y casos-exito/page.tsx usa https://demo.syxweb.com.",
+        "Dentro de la app la marca se ve como \"INNOVO\" / \"INNOVO DEALERSHIP\"; la web de SyxWeb lo llama \"Innova\".",
+        "casos-exito lista PostgreSQL, pero el repositorio de Innova (C:/xampp/htdocs/conseccionaria) usa MySQL 8 en producción y MariaDB en local: no usar la lista de tecnologías sin verificarla.",
+        "gallery-1.webp (concepto generado con IA con marca de agua de Gemini) se excluyó. En main y gallery-2 se quitaron por clonado la pestaña de extensión \">_<\" y el distintivo \"N\" de Next.js.",
+        "Los datos del dashboard son de demo (\"Dealer Demo\", \"Admin\")."
+      ]
+    },
+    {
+      "key": "quirumed",
+      "claves_en_fuente": {
+        "portfolioGrid": "quirumed",
+        "casosExito": "quirumed",
+        "catalogo": "quirumed-sistema-medico",
+        "loginCarousel": "quirumed"
+      },
+      "carpeta": "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/quirumed",
+      "nombre": "Quirumed - Sistema Clínico",
+      "nombre_caso": "Quirumed",
+      "nombre_catalogo": "Quirumed",
+      "categoria": "systems",
+      "categoria_etiqueta": "Sistemas",
+      "categoria_caso": "Sistema Web",
+      "tipo_login": "Sistema clínico",
+      "ubicacion": "Latinoamérica",
+      "url": "https://demo.syxweb.com/",
+      "url_demo_casos_exito": "https://demo.syxweb.com",
+      "descripcion_corta": "Sistema médico completo con historias clínicas y facturación",
+      "descripcion": "Sistema de gestión médica integral. Pacientes, citas, historias clínicas, departamentos, doctores, facturación, seguros y reportes.",
+      "descripcion_catalogo": "Sistema de gestión médica integral. Incluye dashboard con métricas, gestión de pacientes, citas médicas, historias clínicas, departamentos, especialidades, doctores, enfermeras, facturación, seguros médicos y reportes.",
+      "descripcion_login": "Pacientes, citas y gestión clínica dentro de una misma experiencia.",
+      "detalle_login": "Salud · Gestión",
+      "resultados": [
+        {
+          "valor": "5,000+",
+          "etiqueta": "Pacientes gestionados"
+        },
+        {
+          "valor": "100%",
+          "etiqueta": "Citas automatizadas"
+        },
+        {
+          "valor": "12 semanas",
+          "etiqueta": "Tiempo desarrollo"
+        }
+      ],
+      "tecnologias": [
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "Prisma",
+        "JWT"
+      ],
+      "tiempo_entrega_catalogo": "10-12 semanas",
+      "testimonio": "no figura",
+      "archivos": [
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/quirumed/gallery-1-difuminado-limpia.webp",
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/quirumed/gallery-1-difuminado-limpia.png",
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/quirumed/gallery-2-difuminado-limpia.webp",
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/quirumed/gallery-2-difuminado-limpia.png",
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/quirumed/gallery-3-limpia.webp",
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/quirumed/gallery-3-limpia.png",
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/quirumed/gallery-4-limpia.webp",
+        "C:/syxweb-anuncio/_marca-syxweb/portafolio-web/quirumed/gallery-4-limpia.png"
+      ],
+      "avisos": [
+        "gallery-1 muestra \"Total Pacientes 5\" (datos de demo): no combinarla con la cifra \"5,000+ Pacientes gestionados\".",
+        "Nombres y contactos de pacientes y doctores difuminados en gallery-1 y gallery-2.",
+        "Se eliminaron main (dashboard en cero y cortado), gallery-5 (modal de impresión) y la captura nativa \"Sistema SYX\" (KPIs en cero y otra marca). En todas las demás se quitó la pestaña \">_<\" y la barra de desplazamiento. gallery-1 termina tras la primera fila de la tabla (la segunda salía cortada) y en gallery-3 se cubrió con el color de fondo de la página el encabezado cortado \"Respuestas Automaticas\"."
+      ]
+    },
+    {
+      "key": "severaltime",
+      "claves_en_fuente": {
+        "portfolioGrid": "severaltime",
+        "casosExito": "severaltime",
+        "catalogo": "severaltime-marketplace",
+        "loginCarousel": "no figura"
+      },
+      "carpeta": "C:/syxweb-anuncio/several-time/portafolio",
+      "nombre": "SeveralTime - Red Social",
+      "nombre_caso": "Several Time",
+      "nombre_catalogo": "Several Time",
+      "categoria": "apps",
+      "categoria_etiqueta": "Apps",
+      "categoria_caso": "Marketplace",
+      "tipo_login": "no figura",
+      "ubicacion": "Internacional",
+      "url": "https://severaltime.com/",
+      "url_demo_casos_exito": "https://severaltime.com",
+      "descripcion_corta": "Marketplace de servicios con pagos, chat y reservas en tiempo real",
+      "descripcion": "Plataforma marketplace que conecta emisores de servicios únicos con receptores. Sistema de pagos Stripe, verificación de identidad, chat en tiempo real y reservas.",
+      "descripcion_catalogo": "Plataforma marketplace que conecta emisores de servicios únicos con receptores interesados en experiencias auténticas. Incluye sistema de pagos con Stripe, verificación de identidad, chat en tiempo real y sistema de reservas.",
+      "descripcion_login": "no figura",
+      "detalle_login": "no figura",
+      "resultados": [
+        {
+          "valor": "2,000+",
+          "etiqueta": "Usuarios activos"
+        },
+        {
+          "valor": "500+",
+          "etiqueta": "Transacciones/mes"
+        },
+        {
+          "valor": "12 semanas",
+          "etiqueta": "Tiempo desarrollo"
+        }
+      ],
+      "tecnologias": [
+        "Next.js",
+        "Node.js",
+        "Stripe",
+        "PostgreSQL",
+        "WebSockets"
+      ],
+      "tiempo_entrega_catalogo": "10-12 semanas",
+      "testimonio": {
+        "cita": "SyxWeb transformó nuestra visión en una plataforma funcional. El equipo entendió perfectamente lo que necesitábamos.",
+        "autor": "CEO",
+        "empresa": "Several Time"
+      },
+      "estado_url": "severaltime.com caído al 2026-10-16 y sin copia local del sitio: las capturas salen de syxweb-modern/public/projects/severaltime y de output/webdev-audit/source-native/catalog",
+      "archivos": [
+        "C:/syxweb-anuncio/several-time/portafolio/gallery-1-perfil-difuminado.webp",
+        "C:/syxweb-anuncio/several-time/portafolio/gallery-1-perfil-difuminado.png",
+        "C:/syxweb-anuncio/several-time/portafolio/gallery-2.webp",
+        "C:/syxweb-anuncio/several-time/portafolio/gallery-2.png",
+        "C:/syxweb-anuncio/several-time/portafolio/gallery-3-hero.webp",
+        "C:/syxweb-anuncio/several-time/portafolio/gallery-3-hero.png",
+        "C:/syxweb-anuncio/several-time/portafolio/gallery-4.webp",
+        "C:/syxweb-anuncio/several-time/portafolio/gallery-4.png",
+        "C:/syxweb-anuncio/several-time/marca/logo-several-time-192-fondo-negro.png"
+      ],
+      "avisos": [
+        "La categoría no es coherente entre fuentes: grid \"SeveralTime - Red Social\" (apps), caso \"Marketplace\" y el propio sitio se presenta como \"plataforma de citas\".",
+        "Copy de citas (\"La mejor plataforma de citas para tu futuro\", \"Únete a la plataforma líder en citas exclusivas\") junto a retratos en gallery-2 y gallery-4, y en gallery-3-hero: riesgo con las políticas de anuncios de citas de Meta y TikTok.",
+        "gallery-3-hero muestra cifras del sitio (50K+ usuarios activos, 1.2M+ matches, 45K+ verificados, 50+ países, 4.9 rating, 100% seguro) que no coinciden con es.json (2,000+ usuarios activos): no citarlas ni mezclarlas.",
+        "gallery-2 mide 413x810 (captura móvil original, no hay versión mayor): usarla pequeña o dentro de un marco de teléfono.",
+        "logo-several-time-192-fondo-negro.png: 192 px sobre negro opaco; no existe versión mayor ni vectorial. Usarlo pequeño sobre negro o con modo de fusión Pantalla/Aclarar.",
+        "Se eliminaron main y feed-nativo (feed con fotos de personas reales, primer plano de labios, insignia reCAPTCHA y publicaciones cortadas). gallery-1 se rehízo como recorte del encabezado del perfil con avatar, nombre y usuario difuminados."
+      ]
+    },
+    {
+      "key": "floridaScreen",
+      "claves_en_fuente": {
+        "portfolioGrid": "floridaScreen",
+        "casosExito": "floridaScreen",
+        "catalogo": "florida-screen-aluminum",
+        "loginCarousel": "floridaScreen"
+      },
+      "carpeta": "no figura",
+      "nombre": "Florida Screen & Aluminum",
+      "nombre_caso": "Florida Screen Aluminum",
+      "nombre_catalogo": "Florida Screen Aluminum",
+      "categoria": "websites",
+      "categoria_etiqueta": "Websites",
+      "categoria_caso": "Corporativo",
+      "tipo_login": "Sitio corporativo",
+      "ubicacion": "Florida, USA",
+      "url": "https://floridascreenaluminum.com/",
+      "url_demo_casos_exito": "https://floridascreenaluminum.com",
+      "descripcion_corta": "Web corporativa para empresa de construcción en Florida, USA",
+      "descripcion": "Sitio web corporativo para empresa de cerramientos y soluciones de aluminio. Portafolio de proyectos, sistema de cotizaciones y galería de trabajos.",
+      "descripcion_catalogo": "Sitio web corporativo para empresa de cerramientos de pantalla y soluciones de aluminio en Central Florida. Incluye portafolio de proyectos, sistema de cotizaciones, galería de trabajos y formulario de contacto.",
+      "descripcion_login": "Una presencia digital que presenta sus servicios y facilita el primer contacto.",
+      "detalle_login": "Servicios · Cotizaciones",
+      "resultados": [
+        {
+          "valor": "+150%",
+          "etiqueta": "Leads mensuales"
+        },
+        {
+          "valor": "+280%",
+          "etiqueta": "Tráfico orgánico"
+        },
+        {
+          "valor": "4 semanas",
+          "etiqueta": "Tiempo desarrollo"
+        }
+      ],
+      "tecnologias": [
+        "Next.js",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Vercel"
+      ],
+      "tiempo_entrega_catalogo": "3-4 semanas",
+      "testimonio": {
+        "cita": "Profesionales, puntuales y con un nivel técnico excelente. Nuestra web genera leads constantemente.",
+        "autor": "Propietario",
+        "empresa": "Florida Screen Aluminum"
+      },
+      "archivos": [],
+      "avisos": [
+        "Sin capturas en este track: florida-screen no estaba en el alcance del requisito 4."
+      ]
+    },
+    {
+      "key": "tanomoshi",
+      "claves_en_fuente": {
+        "portfolioGrid": "no figura",
+        "casosExito": "no figura",
+        "catalogo": "no figura",
+        "loginCarousel": "tanomoshi"
+      },
+      "carpeta": "no figura",
+      "nombre": "Tanomoshi Global",
+      "nombre_caso": "no figura",
+      "nombre_catalogo": "no figura",
+      "categoria": "no figura",
+      "categoria_etiqueta": "no figura",
+      "categoria_caso": "no figura",
+      "tipo_login": "Plataforma de ahorro colaborativo",
+      "ubicacion": "no figura",
+      "url": "https://tanomoshiglobal.com",
+      "url_fuente": "components/auth/LoginProjectCarousel.tsx (domain), components/sections/PartnersCarousel.tsx y ProfessionalServices.tsx (url)",
+      "url_demo_casos_exito": "no figura",
+      "descripcion_corta": "Una plataforma para organizar grupos, gestionar el ahorro y conectar a su comunidad.",
+      "descripcion": "no figura",
+      "descripcion_catalogo": "no figura",
+      "descripcion_login": "Una plataforma para organizar grupos, gestionar el ahorro y conectar a su comunidad.",
+      "detalle_login": "Comunidad · Grupos · Ahorro",
+      "resultados": "no figura",
+      "tecnologias": "no figura",
+      "tiempo_entrega_catalogo": "no figura",
+      "testimonio": "no figura",
+      "archivos": [],
+      "avisos": [
+        "Solo aparece en el carrusel del login y en socios; no está en PortfolioGrid ni en casos de éxito. Sin capturas en este track."
+      ]
+    }
+  ]
+}
