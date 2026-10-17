@@ -37,6 +37,29 @@ Video vertical 9:16 para TikTok y Facebook. Este material es solo recopilado, si
 - **Florida Screen Aluminum**: El dominio no responde hoy; se capturó el build local del sitio.
 - **Several Time**: El dominio no responde hoy; solo hay material del portafolio (portafolio/ y marca/).
 
+## Locución (`voz/`)
+
+Tres tomas del mismo texto con ElevenLabs, modelo `eleven_multilingual_v2` (stability 0.45, similarity_boost 0.8, style 0.25, use_speaker_boost activado). Son voces de la Voice Library en español con acento latinoamericano, pensadas para publicidad.
+
+- Formato: MP3 a 44.1 kHz, 128 kbps y mono (`mp3_44100_128`). El de 192 kbps que se pidió solo está disponible desde el plan Creator, y esta cuenta es Starter.
+- Las tomas no están editadas y cada una trae el volumen propio de su voz (voz_3 suena más fuerte): conviene igualarlas en la edición.
+
+| Archivo | Voz | Quién | Acento | Duración | ID de la voz |
+|---|---|---|---|---|---|
+| [voz_1.mp3](voz/voz_1.mp3) | Angelica - Friendly, Energetic & Professional | mujer, adulta | mexicano | 29 s | `twZzvyYIl5ntDHC1Vatv` |
+| [voz_2.mp3](voz/voz_2.mp3) | Juan Carlos - Confident and Upbeat | hombre, adulto | latinoamericano | 28 s | `G4IAP30yc6c1gK0csDfu` |
+| [voz_3.mp3](voz/voz_3.mp3) | Zabra - Energetic and Engaging Announcer | hombre, joven | latinoamericano | 33 s | `9XaoraKgpXhItOQktYsV` |
+
+Texto exacto, que también sirve para los subtítulos:
+
+> ¿Tu negocio aparece cuando te buscan en Google?  
+> Si no aparece… tu cliente se va con otro.  
+> Con Six Web, eso cambia.  
+> Creamos páginas web, tiendas online y software a medida que te traen clientes reales.  
+> Tiendas que cobran con tarjeta o billetera digital, sistemas con facturación electrónica y posicionamiento en Google para que te encuentren.  
+> Cotiza gratis en veinticuatro horas por WhatsApp.  
+> Six Web: tu negocio merece una web.  
+
 ## Marca SyxWeb (`_marca-syxweb/`)
 
 - `logo-syxweb.png`: logo horizontal (globo y SYXWEB), PNG con fondo transparente. Para fondos oscuros usar `derivados/logo-syxweb-blanco.png`.
